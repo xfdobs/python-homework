@@ -1,6 +1,6 @@
-# Portfolio performance analysis
+# Portfolio Performance Analysis
 
-(Images/head.jpg)
+![Image](Images/head.jpg)
 
 ## Case: 
 
